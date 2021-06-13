@@ -22,3 +22,24 @@
 .clear {
     clear: both;
 }
+
+.img2 {
+    width: 50px;
+    height: 50px;
+}
+
+.secbg {
+    background-color: lightgray;
+}
+
+.left-block {
+    width: 570px;
+    background-color: gray;
+    float: left;
+}
+
+.right-block {
+    width: 570px;
+    background-color: lightblue;
+    float: right;
+}
