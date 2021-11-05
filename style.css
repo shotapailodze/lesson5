@@ -1,45 +1,45 @@
-/* Section 1 */
-
-.container {
-    width: 1200px;
-    margin: 0 auto;
-}
-
-.image-box {
+.test1{
     float: left;
-    margin-top: 20px;
 }
-
-.img1 {
-    height: 300px;
-    width: 210px;
+.test2{
+    float: right;
 }
-
-.size {
-    margin-right: 30px
-}
-
 .clear {
     clear: both;
 }
-
-.img2 {
-    width: 50px;
-    height: 50px;
+.shar {
+    width: 270px;
+    height: 210px;
 }
-
-.secbg {
-    background-color: lightgray;
+.container {
+    width: 1170px;
+    margin: 0 auto;
 }
-
-.left-block {
-    width: 570px;
-    background-color: gray;
+.image-box {
     float: left;
 }
+.size {
+    margin-right: 30px;
+}
 
+/*section 2 */
+.section-bg {
+    background-color: lightgray;
+}
+.left-block {
+    width: 570px;
+    background-color: #F2F2F2;
+    float: left;
+}
 .right-block {
     width: 570px;
     background-color: lightblue;
     float: right;
+}
+.image-block {
+    float: left;
+}
+.text-block {
+    width: 470px;
+    float: left;
 }
